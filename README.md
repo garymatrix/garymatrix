@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @garymatrix
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 📫 Reach me at aniketdeshmukh951@gmail.com
+- 👋 Hi, I’m garymatrix
+- 👀 I’m a Python Developer
+- 📫 Reach out to me at aniketdeshmukh951@gmail.com
 
